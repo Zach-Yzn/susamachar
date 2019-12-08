@@ -9,7 +9,8 @@ excerpt: >-
   requires pushing vegetation aside.
 menus:
   main:
-    title: POPULAR CATEGORIES
+    identifier: POPULAR CATEGORIES
+    title: ''
 template: post
 ---
 
