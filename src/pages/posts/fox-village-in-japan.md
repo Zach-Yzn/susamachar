@@ -14,7 +14,7 @@ excerpt: >-
   distinction between rooms and indoor and outdoor space.
 menus:
   main:
-    identifier: popular articles
+    identifier: ''
 template: post
 ---
 
